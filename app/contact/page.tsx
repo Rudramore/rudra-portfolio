@@ -7,7 +7,7 @@ const channels = [
   {
     label: "LinkedIn",
     description: "Best for professional connections and DMs",
-    href: "https://linkedin.com/in/rudramore",
+    href: "https://www.linkedin.com/in/rudramore/",
     cta: "Connect on LinkedIn",
     icon: (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
@@ -21,7 +21,7 @@ const channels = [
   {
     label: "Email",
     description: "For project inquiries, job opportunities, or collaborations",
-    href: "mailto:rudra@example.com",
+    href: "mailto:rmore1@hawk.illinoistech.edu",
     cta: "Send an Email",
     icon: (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
@@ -35,7 +35,7 @@ const channels = [
   {
     label: "GitHub",
     description: "Browse my code, projects, and version history",
-    href: "https://github.com/rudramore",
+    href: "https://github.com/Rudramore",
     cta: "View GitHub Profile",
     icon: (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">

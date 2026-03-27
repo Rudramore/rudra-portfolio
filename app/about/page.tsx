@@ -69,7 +69,7 @@ export default function AboutPage() {
               <div className="space-y-4">
                 <div>
                   <p className="font-semibold text-slate-900 text-sm">B.S. Computer Science</p>
-                  <p className="text-slate-500 text-sm">University · 2021–2025</p>
+                  <p className="text-slate-500 text-sm">Illinois Institute of Technology · 2021–2025</p>
                 </div>
                 <div className="border-t border-slate-200 pt-4">
                   <p className="font-semibold text-slate-900 text-sm">Coursework Highlights</p>
@@ -108,7 +108,7 @@ export default function AboutPage() {
               <p className="text-white font-semibold text-sm mb-3">Get in Touch</p>
               <div className="flex flex-col gap-2">
                 <a
-                  href="https://linkedin.com/in/rudramore"
+                  href="https://www.linkedin.com/in/rudramore/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-300 hover:text-white text-sm transition-colors flex items-center gap-2"
@@ -116,13 +116,13 @@ export default function AboutPage() {
                   <span>↗</span> LinkedIn
                 </a>
                 <a
-                  href="mailto:rudra@example.com"
+                  href="mailto:rmore1@hawk.illinoistech.edu"
                   className="text-slate-300 hover:text-white text-sm transition-colors flex items-center gap-2"
                 >
                   <span>↗</span> Email
                 </a>
                 <a
-                  href="https://github.com/rudramore"
+                  href="https://github.com/Rudramore"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-300 hover:text-white text-sm transition-colors flex items-center gap-2"

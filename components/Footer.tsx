@@ -7,7 +7,7 @@ export default function Footer() {
         </p>
         <div className="flex items-center gap-6">
           <a
-            href="https://linkedin.com/in/rudramore"
+            href="https://www.linkedin.com/in/rudramore/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-slate-500 hover:text-slate-900 transition-colors"
@@ -15,7 +15,7 @@ export default function Footer() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/rudramore"
+            href="https://github.com/Rudramore"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-slate-500 hover:text-slate-900 transition-colors"
@@ -23,7 +23,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="mailto:rudra@example.com"
+            href="mailto:rmore1@hawk.illinoistech.edu"
             className="text-sm text-slate-500 hover:text-slate-900 transition-colors"
           >
             Email
