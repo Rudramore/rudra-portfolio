@@ -63,7 +63,7 @@ export default function AboutPage() {
 
           {/* Sidebar */}
           <div className="space-y-6">
-            {/* Education placeholder */}
+            {/* Education */}
             <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
               <h3 className="font-bold text-slate-900 mb-4">Education</h3>
               <div className="space-y-4">

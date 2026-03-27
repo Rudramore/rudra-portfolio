@@ -58,7 +58,7 @@ export default function HomePage() {
         />
         {/* Ambient glows */}
         <div className="absolute top-1/3 left-1/4 w-[480px] h-[480px] rounded-full bg-blue-700/10 blur-[120px] pointer-events-none" />
-        <div className="absolute bottom-1/4 right-1/4 w-[320px] h-[320px] rounded-full bg-cyan-600/8 blur-[90px] pointer-events-none" />
+        <div className="absolute bottom-1/4 right-1/4 w-[320px] h-[320px] rounded-full bg-cyan-600/10 blur-[90px] pointer-events-none" />
 
         <div className="relative max-w-6xl mx-auto px-6 py-24 w-full">
           <div className="max-w-3xl">
