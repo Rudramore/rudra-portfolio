@@ -14,9 +14,9 @@ export default function AboutPage() {
       <div className="bg-slate-50 border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-6 py-16">
           <p className="text-blue-600 text-xs font-semibold uppercase tracking-widest mb-3">About Me</p>
-          <h1 className="text-4xl font-bold text-slate-900 mb-4">Strategy + Data. Both.</h1>
+          <h1 className="text-4xl font-bold text-slate-900 mb-4">AI foundations. Business clarity.</h1>
           <p className="text-slate-500 text-lg max-w-2xl">
-            I bridge the gap between technical data work and the business questions that actually matter.
+            B.S. Artificial Intelligence + M.S. Business Analytics — I bridge the gap between how models work and what the business should actually do with them.
           </p>
         </div>
       </div>
@@ -27,13 +27,13 @@ export default function AboutPage() {
           <div className="lg:col-span-2 space-y-6">
             <h2 className="text-2xl font-bold text-slate-900">My Story</h2>
             <p className="text-slate-600 leading-relaxed text-lg">
-              I&apos;m a data and business analyst with a background in Computer Science and Management. My work sits at the intersection of quantitative rigor and strategic clarity — I don&apos;t just run the numbers, I explain what they mean for the decisions you&apos;re trying to make.
+              I hold a B.S. in Artificial Intelligence and an M.S. in Business Analytics — both from Illinois Institute of Technology. That combination is intentional: I understand how models are built, but I&apos;m more focused on what they mean for the decision you&apos;re trying to make.
             </p>
             <p className="text-slate-600 leading-relaxed">
-              Through coursework, competitions, and independent projects, I&apos;ve built experience across the full analytics stack: from designing SQL databases and building predictive models, to structuring go-to-market strategies and presenting findings to non-technical audiences.
+              My work sits at the intersection of technical AI foundations and strategic business thinking. I don&apos;t just run the numbers — I translate them into recommendations that move organizations forward. From designing relational databases and building predictive models, to structuring go-to-market strategies and presenting findings to non-technical audiences.
             </p>
             <p className="text-slate-600 leading-relaxed">
-              I competed in the <strong className="text-slate-900">2026 SAS Curiosity Cup</strong> and have applied analytical frameworks to real-world problems ranging from operations optimization to startup business planning. I believe the most valuable skill in analytics isn&apos;t technical — it&apos;s knowing which question to ask first.
+              I competed in the <strong className="text-slate-900">2026 SAS Curiosity Cup</strong> and have applied analytical frameworks to real problems ranging from operations optimization to startup business planning. I believe the most valuable skill in analytics isn&apos;t technical — it&apos;s knowing which question to ask first.
             </p>
 
             <div className="pt-4">
@@ -67,8 +67,13 @@ export default function AboutPage() {
             <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
               <h3 className="font-bold text-slate-900 mb-4">Education</h3>
               <div className="space-y-4">
+                <div className="p-3 bg-blue-50 border border-blue-100 rounded-lg">
+                  <p className="font-semibold text-slate-900 text-sm">M.S. Business Analytics</p>
+                  <p className="text-blue-600 text-xs font-medium mt-0.5">2024 – 2026</p>
+                  <p className="text-slate-500 text-xs mt-0.5">Illinois Institute of Technology</p>
+                </div>
                 <div>
-                  <p className="font-semibold text-slate-900 text-sm">B.S. Computer Science</p>
+                  <p className="font-semibold text-slate-900 text-sm">B.S. Artificial Intelligence</p>
                   <p className="text-slate-500 text-sm">Illinois Institute of Technology · 2021–2025</p>
                 </div>
                 <div className="border-t border-slate-200 pt-4">

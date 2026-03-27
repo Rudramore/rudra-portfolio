@@ -13,6 +13,15 @@ export interface Project {
   featured: boolean;
 }
 
+export const ACCENT_COLORS: Record<Project["tagColor"], string> = {
+  blue: "#3B82F6",
+  purple: "#8B5CF6",
+  green: "#10B981",
+  orange: "#F97316",
+  teal: "#14B8A6",
+  rose: "#F43F5E",
+};
+
 export const TAG_STYLES: Record<Project["tagColor"], { bg: string; text: string; border: string }> = {
   blue: { bg: "bg-blue-50", text: "text-blue-700", border: "border-blue-200" },
   purple: { bg: "bg-purple-50", text: "text-purple-700", border: "border-purple-200" },
